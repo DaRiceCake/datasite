@@ -2,7 +2,15 @@
 
 **DISCLAIMER** this may not be accurate data and no real predictions should be made of this graph. The Data and curve on this graph are liable to change
 
+#### Graphs
+
+Overall predicton: **may not be accurate**
+
 ![Current graph](covid.png)
+
+Zoomed in graph
+
+![](covidz.png)
 
 Here is just data
 
