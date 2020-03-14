@@ -4,4 +4,8 @@
 
 ![Current graph](covid.png)
 
-[data sourced from](https://www.arcgis.com/sharing/rest/content/items/e5fd11150d274bebaaf8fe2a7a2bda11)
+Here is just data
+![](covidd.png)
+
+
+[data sourced from](https://www.arcgis.com/sharing/rest/content/items/e5fd11150d274bebaaf8fe2a7a2bda11/data)
