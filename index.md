@@ -5,6 +5,7 @@
 ![Current graph](covid.png)
 
 Here is just data
+
 ![](covidd.png)
 
 #### Important links
