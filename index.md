@@ -1,6 +1,6 @@
 ## Welcome to some COVID-19 data
 
-**DISCLAIMER** this may not be accurate data and no real predictions should be made of this graph. The Data and curve on this graph are liable to change
+### **DISCLAIMER** this may not be accurate data and no real predictions should be made of this graph. The Data and curve on this graph are liable to change
 
 #### Graphs
 
@@ -12,7 +12,7 @@ Zoomed in graph
 
 ![](covidz.png)
 
-Here is just data
+Here is just the pure data, no forcasting trendline, just lines between points
 
 ![](covidd.png)
 
