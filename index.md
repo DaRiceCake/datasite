@@ -4,6 +4,8 @@
 
 #### Graphs
 
+##### Cases
+
 Overall predicton: **may not be accurate**
 
 ![Current graph](covid.png)
@@ -15,6 +17,16 @@ Zoomed in graph
 Here is just the pure data, no forcasting trendline, just lines between points
 
 ![](covidd.png)
+
+##### Deaths
+
+Overall prediction: **may not be accurate**
+
+![](death.png)
+
+Pure data, lines connectiong data points
+
+![](deathr.png)
 
 #### Important links
 [U.K government advice](https://www.nhs.uk/conditions/coronavirus-covid-19/)
