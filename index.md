@@ -31,4 +31,6 @@ Pure data, lines connectiong data points
 #### Important links
 [U.K government advice](https://www.nhs.uk/conditions/coronavirus-covid-19/)
 
-[data sourced from](https://www.arcgis.com/home/item.html?id=e5fd11150d274bebaaf8fe2a7a2bda11)
+[data sourced from: cases](https://www.arcgis.com/home/item.html?id=e5fd11150d274bebaaf8fe2a7a2bda11)
+
+[data sourced from: deaths](https://github.com/CSSEGISandData/COVID-19)
