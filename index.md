@@ -24,7 +24,7 @@ Overall prediction: **may not be accurate**
 
 ![](death.png)
 
-Pure data, lines connectiong data points
+Pure data, lines connectiong data points, not a trendline
 
 ![](deathr.png)
 
